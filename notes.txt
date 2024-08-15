@@ -1,0 +1,16 @@
+here We Are using Some New Technologies 
+
+1. Vite 
+2. Tailwind CSS
+
+
+Step 1- Run "npm create vite@latest ./ -- --template react"
+Step 2- Run "npm install -D tailwindcss postcss autoprefixer"
+Step 3- Run "npx tailwindcss init -p"
+Step 4- Run "npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom"
+
+Step 5 - Just copy the addittional files here (public,components,assets)
+Step 6- Delete the app.css and clear the app.jsx
+Step 7- copy the code from gist all files
+Step 8-  Run "npm run dev"
+
